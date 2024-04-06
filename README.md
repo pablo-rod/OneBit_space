@@ -9,4 +9,5 @@ A Landing Page da SpaceX é um projeto fictício desenvolvido para simular a pá
 ## Tecnologias Utilizadas:
 
 HTML5: Utilizado para estruturar o conteúdo da página.
+
 Bootstrap: Responsável pelo estilo e design da página.
