@@ -11,3 +11,8 @@ A Landing Page da SpaceX é um projeto fictício desenvolvido para simular a pá
 HTML5: Utilizado para estruturar o conteúdo da página.
 
 Bootstrap: Responsável pelo estilo e design da página.
+
+
+Contato:
+
+Para sugestões, dúvidas ou problemas relacionados ao projeto, entre em contato com pablorodrigues606@gmail.com
