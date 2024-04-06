@@ -1,6 +1,6 @@
 # OneBit_space
 
-Bem-vindo ao projeto de desenvolvimento da Landing Page da SpaceX! Este documento fornecerá uma visão geral do projeto e das tecnologias utilizadas, bem como instruções para configurar o ambiente de desenvolvimento e executar a aplicação localmente.
+Bem-vindo ao projeto de desenvolvimento da Landing Page fictícia da SpaceX! 
 
 ## Visão Geral:
 
